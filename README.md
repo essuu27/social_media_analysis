@@ -1,4 +1,4 @@
-# 'Clean and analyse social media usage data with Python' - Coursera
+# Clean and analyse social media usage data with Python - Coursera
 This document describes the process I used to produce the coursework for the [Clean and analyse social media usage data with Python](https://www.coursera.org/learn/analyze-social-media-python/) project, hosted by Coursera.
 
 # Project description
