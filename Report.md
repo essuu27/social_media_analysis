@@ -10,11 +10,11 @@ As this is an initial, pre-production service the data is to be randomly generat
 As the data is randomly generated, it is not subject to any ownership or data privacy concerns.
 
 The data is evaluated by the ROCC metric [Reliability, Originality, Comprehension, Current, Cited], as follows:
-- Reliability: Good - the project requires that the data to be used is randomly generated. As such, the data comes from a 'first order' sourse and so can be considered to be highly reliable
--  Originality: Good - as the data is generated for the project, it is original
--  Comprehension: Good - the script generates data only for the topics required so the data that is created covers the whole set of candidate topics
--  Current: Good - the script sets the date for the data that is generated so it can be considered to be 'Current'
--  Cited: Poor - as the data is unique to this project it is not quoted in any external sources, beyond this report
+- **Reliability**: Good - the project requires that the data to be used is randomly generated. As such, the data comes from a 'first order' sourse and so can be considered to be highly reliable
+-  **Originality**: Good - as the data is generated for the project, it is original
+-  **Comprehension**: Good - the script generates data only for the topics required so the data that is created covers the whole set of candidate topics
+-  **Current**: Good - the script sets the date for the data that is generated so it can be considered to be 'Current'
+-  **Cited**: Poor - as the data is unique to this project it is not quoted in any external sources, beyond this report
 
 ## Methods
 The raw engagement data is to be turned into a Pandas dataframe. The script follows these steps in the analysis:
