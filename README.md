@@ -1,5 +1,5 @@
-# 'Clean and analyse social media usage data with Python' - Coursera
-This document describes the process I used to produce the coursework for the [Clean and analyse social media usage data with Python](https://www.coursera.org/learn/analyze-social-media-python/) project, hosted by Coursera.
+# Clean and analyse social media usage data with Python - Coursera
+This document describes the process I used to produce the coursework for the [Clean and analyse social media usage data with Python](https://www.coursera.org/learn/analyze-social-media-python/) project, hosted by Coursera. All outputs created while undertaking this project are included in this repository.
 
 # Project description
 The project states that you are to act as a entry-level data analyst at a fictional social media agency. This agency specialises in promoting brands and products on a popular social media platform, such as twitter/X. No data is actually collected from any external sites as the script randomly generates its own data file.
